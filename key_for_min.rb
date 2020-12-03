@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   name_hash.min do |key|
-    puts "#{:keys}"
+    puts "#{:adam}"
     end
   end
