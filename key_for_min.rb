@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   name_hash.each_with_index do |name_hash|
-name_hash.is_a?(:key)
+name_hash.is_a?(:key).min
     end
   end
